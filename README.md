@@ -1,5 +1,5 @@
 # Grow-a-Garden-Script
-If you have any problems with it leave a comment, and maybe try again!
+If you have any problems with it report it in the Issues tab above, and maybe try again!
 
 
 
